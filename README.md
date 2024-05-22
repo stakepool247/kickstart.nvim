@@ -37,6 +37,7 @@ External Requirements:
 > and quick install snippets
 
 ### Install Kickstart
+git clone https://github.com/stakepool247/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 
 > **NOTE**
 > [Backup](#FAQ) your previous configuration (if any exists)
